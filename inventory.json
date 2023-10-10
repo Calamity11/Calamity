@@ -81,7 +81,7 @@
       "Small Key (Gerudo's Fortress)": 1,
       "Small Key (Bottom of the Well)": 2,
       "Boss Key (Forest Temple)": 1,
-      "Boss Key (Fire Temple)": 0,
+      "Boss Key (Fire Temple)": 1,
       "Boss Key (Water Temple)": 0,
       "Boss Key (Spirit Temple)": 0,
       "Boss Key (Shadow Temple)": 0,
@@ -106,7 +106,7 @@
       "Fire Arrows (MM)": 1,
       "Ice Arrows (MM)": 0,
       "Light Arrows (MM)": 0,
-      "Bomb Bag (MM)": 1,
+      "Bomb Bag (MM)": 2,
       "Magic Bean (MM)": 1,
       "Powder Keg": 1,
       "Pictograph Box": 0,
@@ -193,7 +193,7 @@
     "reward": {
       "Odolwa's Remains": 1,
       "Goht's Remains": 1,
-      "Gyorg's Remains": 0,
+      "Gyorg's Remains": 1,
       "Twinmold's Remains": 0
     }
   }
